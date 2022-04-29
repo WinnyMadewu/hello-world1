@@ -5,3 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 It now includes steps for github
+Now learning to use pull command is a combination of fetch and merge.
